@@ -1,4 +1,4 @@
-# GeneticGame
+# GeneDot
 
 A rudimentary simulation of genetic algorithm where a population of dots with different color runs through an evolution cycle with fit function to finally become monochrome. 
 
